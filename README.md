@@ -1,2 +1,2 @@
 # Arduino-voltmeter
-This code is a simple introduction on how to create a voltemer with an aruino board
+This code is a simple introduction on how to create a voltmeter with an arduino board
